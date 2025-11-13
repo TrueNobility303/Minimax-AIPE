@@ -1,6 +1,7 @@
 
 ![](Minimax.jpg)
 
+
 ## Breaking News
 
 * [2025/7] Minimax-AIPE [C2] is accepted by COLT'25 and got **Best Student Paper**!
