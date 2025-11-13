@@ -12,6 +12,7 @@
 
 ## Reference
 
-* [C2] **Lesi Chen**, Chengchang Liu, Luo Luo, and Jingzhao Zhang, _Solving Convex-Concave Problems with_ $\tilde{\mathcal{O}}(\epsilon^{-4/7})$ _Second-Order Oracle Complexity_  [[COLT 2025]](http://arxiv.org/abs/2506.08362)
 * [J1] **Lesi Chen**, Chengchang Liu, Luo Luo, and Jingzhao Zhang, _Computationally Faster Newton Methods by Lazy Evaluations_, extension from ICLR 2025 below [[arXiv 2025]](https://arxiv.org/abs/2501.17488)
 * [C1] **Lesi Chen**, Chengchang Liu, and Jingzhao Zhang, _Second-Order Min-Max Optimization with Lazy Hessians_ [[ICLR 2025]](https://arxiv.org/pdf/2410.09568)
+* [C2] **Lesi Chen**, Chengchang Liu, Luo Luo, and Jingzhao Zhang, _Solving Convex-Concave Problems with_ $\tilde{\mathcal{O}}(\epsilon^{-4/7})$ _Second-Order Oracle Complexity_  [[COLT 2025]](http://arxiv.org/abs/2506.08362)
+
